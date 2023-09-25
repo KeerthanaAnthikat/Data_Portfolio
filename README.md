@@ -8,4 +8,4 @@ I have analyzed the sales data for valuable insights using the concept of Explor
 
 ## Time_Series_Analysis
 
-I have analyzed the rainfall data at Dhanbad, Jharkhand and conducted a time series Analysis to draw conclusions for changes in rainfall over the years.
+I have analyzed the rainfall data at Dhanbad, Jharkhand and conducted a Time Series Analysis to draw conclusions for changes in rainfall over the years.
